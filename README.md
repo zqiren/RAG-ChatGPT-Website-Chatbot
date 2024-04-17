@@ -34,6 +34,8 @@ SUPABASE_SERVICE_ROLE_KEY=
 ```
 
 The `pageContent` and `metadata` will later be stored in your supabase database table.
+```
+
 
 6. Copy and run `schema.sql` in your supabase sql editor
 
